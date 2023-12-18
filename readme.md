@@ -46,7 +46,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: _@iartemis.in<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/aadityakushwaha/issues)
+ 💬 &emsp; Ask me about anything [here](https://cloud.shrimic.in/index.php/call/6y2o5hos)
 
 </p>
 
