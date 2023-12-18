@@ -54,6 +54,9 @@
 <br/>
 <br/>
 
+## Now Playing on Jellyfin
+![Playing](https://faas-blr1-8177d592.doserverless.co/api/v1/web/fn-1b775b93-a96f-45de-a408-e1e95b181ed3/default/movies-card)
+
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -113,3 +116,4 @@
 
 
 ![Aaditya Kushwaha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aadityakushwaha&custom_title=Aaditya%20Kushwaha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
