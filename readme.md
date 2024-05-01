@@ -54,9 +54,6 @@
 <br/>
 <br/>
 
-## Now Playing on Jellyfin
-<iframe src="https://faas-blr1-8177d592.doserverless.co/api/v1/web/fn-1b775b93-a96f-45de-a408-e1e95b181ed3/default/movies-card" width="100%" height="500px"></iframe>
-
 
 ## Use To Code
 
