@@ -43,8 +43,8 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ✌️ &emsp; Enjoy learning in public <br/><br/>
+ ❤️ &emsp; Love to write code and explore new features<br/><br/>
  📧 &emsp; Reach me anytime: _@iartemis.in<br/><br/>
  💬 &emsp; Ask me about anything [here](https://cloud.shrimic.in/index.php/call/6y2o5hos)
 
