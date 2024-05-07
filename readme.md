@@ -27,7 +27,7 @@
  <a href="https://iartemis.in" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="aadityakushwaha" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
+ <a href="https://linkedin.com/in/aadityakushwaha" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aadityakushwaha"/>
  </a>
  <!-- <a></a> -->
